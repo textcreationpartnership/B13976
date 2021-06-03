@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report of the most execrable murder committed vpon the late French King Henrie the 4. of famous memory with diuers particularities aswell concerning the prisoner, as other matters preceding and ensuing the accident. Written in a letter from good place, and much differing from the vncertaine relations thereof heretofore published.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13976</idno><idno type="EEBO-CITATION">99848267</idno>
+  <idno type="VID">176855</idno>
+  <idno type="EEBO-PROQUEST">2240851577</idno>
+  <idno type="STC">STC 13147.7</idno>
+  <idno type="STC">ESTC S113026</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848267e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176855)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 714:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report of the most execrable murder committed vpon the late French King Henrie the 4. of famous memory with diuers particularities aswell concerning the prisoner, as other matters preceding and ensuing the accident. Written in a letter from good place, and much differing from the vncertaine relations thereof heretofore published.</title>
+               </titleStmt>
+               <extent>[4], 9, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by T. Purfoot] for Iohn Budge, and are to be sold at his shop in Brittaine Burse,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>An. 1610.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another state of STC 13147.5, with title page in a different setting.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B⁴ (A1 and B4 blank).</note>
+                  <note>Identified as STC 13146a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henry --  IV, --  King of France, 1553-1610 --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History --  Henry IV, 1589-1610 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176855:1"/>
+            <pb facs="tcp:176855:1"/>
+            <p>A TRVE REPORT of the most execrable Murder committed vpon the late French King Hen<g ref="char:EOLhyphen"/>rie the 4. of famous memory, with diuers particu<g ref="char:EOLhyphen"/>larities aswell concerning the Prisoner, as other matters preceding and ensuing the accident. Written in a Letter from good place, and much dif<g ref="char:EOLhyphen"/>fering from the vncertaine relations thereof heretofore published.</p>
+            <figure>
+               <figDesc>Woodcut portrait of King Henri IV, in ruff and doublet.</figDesc>
+            </figure>
+            <p>AT LONDON, ✿ Printed for Iohn Budge, and are to be sold at his shop in Brittaine Burse. An. 1610. ({inverted ⁂})</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:176855:2"/>
+            <pb facs="tcp:176855:2"/>
+            <head>A COPIE OF A Letter from <hi>Paris</hi> 17. of May, declaring the māner of the French kings murder, &amp; other particularities there<g ref="char:EOLhyphen"/>vpon depending.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+                  <hi>the misfortune of our</hi> France <hi>hath hitherto so amazed mee, that I could not possibly write vnto you how it was, but now that the consideration of the euill (without remedie) hath giuen mee time to breath, I will performe the dutie I owe you in letting you know it, and thus it happened.</hi>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg> Mischieuous vil<g ref="char:EOLhyphen"/>laine called <hi>Fran<g ref="char:EOLhyphen"/>cis Rauaillart,</hi> and borne at <hi>Ango<g ref="char:EOLhyphen"/>lesme,</hi> now priso<g ref="char:EOLhyphen"/>ner in the Cōser<g ref="char:EOLhyphen"/>gerie of the Pal<g ref="char:EOLhyphen"/>lace of <hi>Paris,</hi> confesseth that more than these 8. moneths he hath sought occasiō
+<pb n="8" facs="tcp:176855:3"/> to kill the King, because hee suffered two Religions in his Kingdome, but could not find the meanes to doe it vn<g ref="char:EOLhyphen"/>till the fourteenth of May last, A daye which many Astrologians haue iudged fatall to his Maiesty, wherof he was ad<g ref="char:EOLhyphen"/>uertised both by the Queene, and by <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>de Vendosme,</hi> with request not to goe abroad that day. But hee (not be<g ref="char:EOLhyphen"/>lieuing Predictions) sayd, that it was an offence to God to giue credit vnto them, and that hauing God for his guarde hee feared no man; yet was hee almost all that morning at his pray<g ref="char:EOLhyphen"/>ers, and then went to walke at the Tuil<g ref="char:EOLhyphen"/>leries, where being in the great Galle<g ref="char:EOLhyphen"/>rie, this wretch thought to execute his deseigne, but being put by by <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>de Vendosme,</hi> talking with the King, hee resolued to attempt him no further at that time, but returned to attend at the <hi>Lovre,</hi> where he tarryed vntill foure of the clocke in the afternoone, sitting vppon the steppes of the hall, making
+<pb n="9" facs="tcp:176855:3"/> shew onely to behold the lackies play<g ref="char:EOLhyphen"/>ing in the Court. At which time the King caused his Coach to bee brought to goe to the Arcenale to see <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>de Sullie</hi> who was there somewhat in indis<g ref="char:EOLhyphen"/>position. The King sat in the hinder end of the Coach accompanyed with the Dukes <hi>de Vendosme, Montbasson d' Espernon,</hi> and <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>le Grand,</hi> and so went forward without suffering any of his Guarde to follow him, being very confident, and yet after dinner before he went out of his Cabinet, he fell to his prayers againe within his wardrobe.</p>
+               <p>Passing through the streete called <hi>la Ferronerie,</hi> which leadeth into Saint <hi>Denis</hi> street, a Cart or Waggon crost his Coach and caused it to stoppe. This villaine which followed it (seeing the King behind in the Coach leaning to<g ref="char:EOLhyphen"/>wards the boote thereof, to talke with <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>d' Espernon;</hi> and being without a cloake to put his arme out at the open
+<pb n="4" facs="tcp:176855:4"/> place betwixt the two hindermost pil<g ref="char:EOLhyphen"/>lars of the Coach, and so the left side na<g ref="char:EOLhyphen"/>ked without defence of his arme, which the King in talking leaned vpon on the other side) stabbed at him with a knife of a foote long, but the thrust ranne a long the third ribbe and was not deadly. Whereat the King crying <hi>I am hurt, but it is nothing,</hi> this cursed wretch redou<g ref="char:EOLhyphen"/>bled his blowe, which went right to the heart, and would haue giuen him the third, but that <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>de Montbasson</hi> caught hold of his arme. At this se<g ref="char:EOLhyphen"/>cond blowe his Maiestie fell downe vp<g ref="char:EOLhyphen"/>pon his face dead, and was carryed to the <hi>Lovre,</hi> where the Queen was, reposing her selfe after the great trauaile shee en<g ref="char:EOLhyphen"/>dured the daye before at her corona<g ref="char:EOLhyphen"/>tion.</p>
+               <p>This great Princesse beholding this sad spectacle, fell twice into a swound, (the generositie of her minde and the greatnesse of her sorrowe, stopping the
+<pb n="5" facs="tcp:176855:4"/> fountaine of teares.) Then comming to her selfe againe, with a manly cou<g ref="char:EOLhyphen"/>rage pluckt vp her spirits, and comman<g ref="char:EOLhyphen"/>ded the Dukes <hi>de Guise,</hi> and <hi>d' Espernon,</hi> (being the principall of those shee sawe about her) to giue order for the safety of the young King and his bretheren, and of the Citty of <hi>Paris,</hi> which they promised to doe: and going out of the Chamber embraced one another, and sware friendshippe and loue, with pro<g ref="char:EOLhyphen"/>testation neuer to remember old enmi<g ref="char:EOLhyphen"/>tie. The like did <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>d' Espernon</hi> to <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>Montigny,</hi> with-whome meeting, he sayd, Sir, you and your brother are the men to whome I haue wished most harme of any in the world, but now I will bee a friend to you both, and doe praye you to bee so to mee, to the end wee may the better serue our King and our country.</p>
+               <p>The sayd Duke <hi>d' Espernon</hi> that daye shewed great effects of his fidelity, for
+<pb n="6" facs="tcp:176855:5"/> with the Regiment of Guards hee secu<g ref="char:EOLhyphen"/>red the King, Queene, and late kings Children, and also the Citty of <hi>Paris,</hi> setting Courts of guard in all publicke places, which notwithstand were of no vse.</p>
+               <p>For the poore people were so confu<g ref="char:EOLhyphen"/>sed with sorrowe, that a man could see them doe nothing else but goe wayling vp and downe the streetes, lamenting the losse of their King. Insomuch as they durst not carrye this wretched vil<g ref="char:EOLhyphen"/>laine to prison, for feare the sorrowe of the people should haue turned into fu<g ref="char:EOLhyphen"/>rie vppon him, so that hee was faine to be kept Foure and twenty houres at the <hi>Hostell de Retts.</hi>
+               </p>
+               <p>The same daye the Marshalles of <hi>Fraunce</hi> and Officers of the Crowne, tooke their oaths to the King &amp; Queen, and the Parliament assembling at sixe of the clocke in the euening, declared the
+<pb n="7" facs="tcp:176855:5"/> Queene Regent during the minoritie of her Sonne, and prayed her to bring the King to the Pallace the next daye, to sit vppon his seate of Iustice, and so he did.</p>
+               <p>The King was accompanyed with the Prince of <hi>Conty,</hi> the Duke <hi>d' Angui<g ref="char:EOLhyphen"/>en</hi> (the Counte <hi>Soissons</hi> being absent) and with the Dukes <hi>de Guise, de Sullie,</hi> and <hi>d' Espernon,</hi> and with the Marshalles of <hi>Fraunce, Lavardin, Brisac,</hi> and <hi>Boy-dolphin.</hi>
+               </p>
+               <p>
+                  <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>de Fervaques</hi> was sent away in the night by the Queenes commaun<g ref="char:EOLhyphen"/>dement to goe to his gouernment, so al<g ref="char:EOLhyphen"/>so was <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>S. Pole,</hi> and many other gouernours.</p>
+               <p>All those which accompanyed the King were on foote; the Constable, Car<g ref="char:EOLhyphen"/>dinalles, and Ecclesiasticall Peeres were gone before to take their places, and so
+<pb n="8" facs="tcp:176855:6"/> was the Duke <hi>de Mayne.</hi>
+               </p>
+               <p>Counte <hi>Soissons</hi> arrived on Monday following the Seauenteenth of this mo<g ref="char:EOLhyphen"/>neth, about twoo of the clocke after noone, accompanied with Fiue hundred Horses, of those which hee brought with him, and such as went forth to meete him, two Marshalles of <hi>Fraunce</hi> going to him to <hi>Saint Clou,</hi> where hee dyned.</p>
+               <p>Hee alighted at the <hi>Lovre,</hi> and com<g ref="char:EOLhyphen"/>ming to the Queenes presence, gaue testimonie by his teares, that he partici<g ref="char:EOLhyphen"/>pated of her greefe: He promised the King all assistance, euen to the last drop of his bloud.</p>
+               <p>
+                  <hi>Mons</hi>
+                  <seg rend="sup">r</seg>. <hi>Prasline</hi> was dispatched away to the armie, to holde some order of dis<g ref="char:EOLhyphen"/>cipline vntill the cōming of the Dukes <hi>de Neuers</hi> and <hi>Bullion.</hi>
+               </p>
+               <pb n="9" facs="tcp:176855:6"/>
+               <p>Thus Sir you see what doth and hath passed in this afflicted Court vntill this present, which I send you for cer<g ref="char:EOLhyphen"/>taine truth, and so cease till future occurents giue occasion of further aduertise<g ref="char:EOLhyphen"/>ment.</p>
+               <closer>
+                  <dateline>
+                     <date>17. <hi>May.</hi> 1610.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
